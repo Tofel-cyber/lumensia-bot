@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, CallbackQueryHandler
 
-TOKEN = "8385415914:AAGrsOMV7GipzCug2MGK3M--WE7Mg8SbKBU"  # Ganti dengan token BotFather
+TOKEN = 8385415914:AAFaxvK3_kIteRCX3o2Swf1s0EP-XjjMq9s  # Ganti dengan token BotFather
 
 # ================= INFO LUMENSIA =================
 info_lumensia = "🌟 *PT LUMENSIA SMART TECHNOLOGIE*\n\n_Green Energy Smart Living for Future Generation_"
