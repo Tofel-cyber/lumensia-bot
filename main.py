@@ -5,7 +5,7 @@ import os
 
 TOKEN = os.getenv("BOT_TOKEN")  # Ganti dengan token BotFather
 # ================= INFO LUMENSIA =================
-info_lumensia = "🌟 *PT LUMENSIA SMART TECHNOLOGIE*\n\n_Green Energy Smart Living for Future Generation_"
+info_lumensia = "🌟 *PT LUMENSIA SMART TECHNOLOGIE*\n\n_Hallo Sobat! Selamat bergabung dalam kebersamaan. Green Energy Smart Living for Future Generation_"
 
 visi = """
 *Visi:*
@@ -21,19 +21,19 @@ misi = """
 """
 
 target_pendek = """
-*🎯 Target Jangka Pendek (2025):*
-• Legalitas resmi (badan hukum, NIB, SIUP, NPWP)
-• Bergabung dengan asosiasi developer properti
-• Kerjasama dengan mitra developer (pilot project perum subsidi)
+*🎯 Target Jangka Pendek (Pencapaian):*
+• Legalitas resmi (badan hukum, NIB, SIUP, NPWP) telah terverifikasi sukses.
+• Tergabung aktif dengan asosiasi developer properti.
+• *Update:* Sedang dalam tahap penjajakan kemitraan strategis dengan developer perumahan subsidi untuk kolaborasi proyek pilot ke depan.
 """
 
 target_panjang = """
 *🚀 Target Jangka Panjang (2026-2030):*
-• Integrasi dengan ekosistem Pi Network
-• Menjadi pionir properti berbasis Pi (wallet SDK tesnet, Pi Venture, LumensiaBot sudah ada)
-• Siap menghadapi Open Mainnet dan transaksi properti berbasis Pi
+• Integrasi penuh dengan ekosistem Pi Network.
+• Menjadi pionir properti berbasis Pi (Wallet SDK Testnet, Pi Venture).
+• *Keberhasilan Listing:* Token LUME berhasil listing dan diperdagangkan dalam ekosistem Pi Tokens.
+• Siap menghadapi Open Mainnet dan implementasi transaksi properti berbasis Pi secara masif.
 """
-
 # ================= DATA TIPE RUMAH =================
 tipe_rumah = [
     {
